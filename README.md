@@ -1,2 +1,5 @@
 # 8T-CNTFET-Full-Adder-Low-Power-VLSI
 Design and implementation of a novel 8-transistor Full Adder using 32nm CNTFET technology for low-power and energy-efficient VLSI applications. The project analyzes power consumption, propagation delay, PDP, EDP, voltage scaling, and temperature variations using HSPICE simulations.
+This project presents the design and analysis of a novel 8-transistor Full Adder implemented using 32nm Carbon Nanotube Field Effect Transistor (CNTFET) technology. The proposed architecture aims to overcome the limitations of conventional CMOS-based full adders by reducing transistor count, minimizing power consumption, and improving energy efficiency while maintaining stable propagation delay.
+
+The design is simulated using HSPICE and evaluated using important performance metrics such as Average Power Consumption, Propagation Delay, Power Delay Product (PDP), and Energy Delay Product (EDP). The proposed 8T Full Adder demonstrates reliable performance under varying supply voltages and temperature conditions, making it suitable for next-generation low-power nanoscale VLSI systems.
